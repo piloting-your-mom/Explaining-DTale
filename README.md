@@ -65,13 +65,13 @@ Multiple sample csv file has been provided for demonstration. Running the code s
 
 # Correlation
 
+
+
 ## Pearson's Correlation Formula
 
 The Pearson correlation coefficient (\(r\)) is calculated as:
 
-\[
-r = \frac{\sum (X_i - \bar{X}) (Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2} \times \sqrt{\sum (Y_i - \bar{Y})^2}}
-\]
+![Pearson Formula](https://latex.codecogs.com/png.latex?r%20%3D%20%5Cfrac%7B%5Csum%20(X_i%20-%20%5Cbar%7BX%7D)%20(Y_i%20-%20%5Cbar%7BY%7D)%7D%7B%5Csqrt%7B%5Csum%20(X_i%20-%20%5Cbar%7BX%7D)%5E2%7D%20%5Ctimes%20%5Csqrt%7B%5Csum%20(Y_i%20-%20%5Cbar%7BY%7D)%5E2%7D%7D)
 
 
 
