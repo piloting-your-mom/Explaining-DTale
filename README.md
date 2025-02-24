@@ -60,21 +60,4 @@ d.open_browser()  # Open in web browser
 
 This command will start a local web server and open a browser tab where users can interact with the dataset in real time.
 
-Exporting a DataFrame as CSV
-
-In addition to its interactive capabilities, users may want to export their processed data for further use. To save a Pandas DataFrame as a CSV file, use the following command:
-
-df.to_csv("output.csv", index=False)
-
-The index=False argument ensures that Pandas does not write the row indices to the CSV file.
-
-Why Use D-Tale?
-
-D-Tale is a valuable tool for both beginners and experienced data professionals. It provides an efficient and user-friendly way to explore datasets without requiring extensive coding. Whether you are conducting quick EDA, debugging data issues, or preparing reports, D-Tale helps streamline the process and enhances productivity.
-
-Conclusion
-
-D-Tale is an excellent addition to any data analyst's toolkit. By combining the power of Pandas with an intuitive, interactive interface, it simplifies data exploration and visualization. If you're looking for a way to enhance your workflow and make data analysis more accessible, D-Tale is definitely worth exploring.
-
-Would you like to see a real-world example or additional customization options in your D-Tale dashboard? Let us know in the comments below!
 
