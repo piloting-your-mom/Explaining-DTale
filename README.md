@@ -63,6 +63,15 @@ Multiple sample csv file has been provided for demonstration. Running the code s
 
   D-Tale provides a built-in SQL editor, allowing users to write and execute queries on their data.
 
-# Corelation
+# Correlation
+
+## Pearson's Correlation Formula
+
+The Pearson correlation coefficient (\(r\)) is calculated as:
+
+\[
+r = \frac{\sum (X_i - \bar{X}) (Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2} \times \sqrt{\sum (Y_i - \bar{Y})^2}}
+\]
+
 
 
