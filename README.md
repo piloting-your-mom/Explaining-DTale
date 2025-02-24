@@ -53,7 +53,7 @@ Once installed, it can be used in a Jupyter Notebook or a Python script:
 import pandas as pd
 import dtale
 
-df = pd.read_csv("your_dataset.csv")  # Load your dataset
+df = pd.read_csv("dataset.csv")  # Load your dataset
 d = dtale.show(df)  # Launch D-Tale
 d.open_browser()  # Open in web browser
  ``` 
