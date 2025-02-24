@@ -14,6 +14,10 @@ Users can with ease gain insights into their datasets with virtually zero extens
 
 Furthermore, D-Tale is very customizable, supports table manipulations, and enables users to edit data on the go. It offers integration with a variety of data sources which makes it easier to analyze datasets from databases, CSV files, APIs, etc. It is a valuable tool for novice and advanced users seeking to boost productivity during data analysis work.
 
+### What's next?
+D-Tale is a valuable tool for both beginners and experienced data professionals. It provides an efficient and user-friendly way to explore datasets without requiring extensive coding. Whether it’s performing quick EDA, resolving data problems, or preparing reports, D-Tale makes those tasks easier, leading to better productivity. 
+
+In this blog, we will explore everything D-Tale offers—from its key features and installation process to its practical applications in data analysis. We will also discuss  exploratory data analysis (EDA) through interactive visualizations, real-time data manipulation, and seamless integration with Pandas. Lets dive in.
 
 # Installation & Setup
 Before using DTale, install it along with necessary libraries. Run the following command in your Jupyter Notebook cell or Terminal :
@@ -61,9 +65,6 @@ A csv file has been provided for demonstration. Running the code snippet above t
 
   D-Tale provides a built-in SQL editor, allowing users to write and execute queries on their data.
 
-### What's next?
-D-Tale is a valuable tool for both beginners and experienced data professionals. It provides an efficient and user-friendly way to explore datasets without requiring extensive coding. Whether it’s performing quick EDA, resolving data problems, or preparing reports, D-Tale makes those tasks easier, leading to better productivity. 
 
-In this blog, we will explore everything D-Tale offers—from its key features and installation process to its practical applications in data analysis. We will also discuss  exploratory data analysis (EDA) through interactive visualizations, real-time data manipulation, and seamless integration with Pandas. Lets dive in.
 
 
