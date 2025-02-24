@@ -43,7 +43,10 @@ In this blog, we will explore everything D-Tale offers—from its key features a
 # Installation & Setup
 Before using DTale, install it along with necessary libraries. Run the following command in your Jupyter Notebook cell or Terminal :
 
-```$ pip install dtale ``` 
+```
+$ pip install pandas
+$ pip install dtale
+``` 
 
 Once installed, it can be used in a Jupyter Notebook or a Python script:
 ```python
