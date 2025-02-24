@@ -37,9 +37,10 @@ Furthermore, D-Tale is very customizable, supports table manipulations, and enab
 
 ### What's next?
 D-Tale is a valuable tool for both beginners and experienced data professionals. It provides an efficient and user-friendly way to explore datasets without requiring extensive coding. Whether it’s performing quick EDA, resolving data problems, or preparing reports, D-Tale makes those tasks easier, leading to better productivity. 
+
 In this blog, we will explore everything D-Tale offers—from its key features and installation process to its practical applications in data analysis. We will also discuss  exploratory data analysis (EDA) through interactive visualizations, real-time data manipulation, and seamless integration with Pandas. Lets dive in.
 
-
+#Installation & Setup
 Installing D-Tale is straightforward. It can be added to a Python environment using pip:
 
 pip install dtale
