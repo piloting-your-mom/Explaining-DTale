@@ -18,22 +18,22 @@ Furthermore, D-Tale is very customizable, supports table manipulations, and enab
 
 - **Automatic Data Summary**
 
-D-Tale offers users the data in a tabular format along with a summary of the dataset, including column types, missing values, and descriptive statistics.
+  D-Tale offers users the data in a tabular format along with a summary of the dataset, including column types, missing values, and descriptive statistics.
 - **Data Filtering & Sorting**
 
-Users can filter and sort datasets dynamically, making it easy to isolate specific records for deeper analysis.
+  Users can filter and sort datasets dynamically, making it easy to isolate specific records for deeper analysis.
 - **Data Visualization**
 
-The library supports multiple chart types, including histograms, bar charts, scatter plots, and box plots, which can be generated directly from the interface.
+  The library supports multiple chart types, including histograms, bar charts, scatter plots, and box plots, which can be generated directly from the interface.
 - **Column Analysis**
 - 
-Each column in a dataset can be analyzed independently, displaying value distributions, correlations, and even automated insights.
+  Each column in a dataset can be analyzed independently, displaying value distributions, correlations, and even automated insights.
 - **Data Editing & Exporting**
 
- Users can modify datasets within the interface and export the updated data back to CSV, Excel, or JSON formats.
+   Users can modify datasets within the interface and export the updated data back to CSV, Excel, or JSON formats.
 - **SQL Integration**
 
-D-Tale provides a built-in SQL editor, allowing users to write and execute queries on their data.
+  D-Tale provides a built-in SQL editor, allowing users to write and execute queries on their data.
 
 ### What's next?
 D-Tale is a valuable tool for both beginners and experienced data professionals. It provides an efficient and user-friendly way to explore datasets without requiring extensive coding. Whether it’s performing quick EDA, resolving data problems, or preparing reports, D-Tale makes those tasks easier, leading to better productivity. 
