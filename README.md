@@ -38,7 +38,7 @@ d.open_browser()  # Open in web browser
 This command will start a local web server and open a browser tab where users can interact with the dataset in real time.
 
 
-A csv file has been provided for demonstration. Running the code snippet above the following window appears-
+Multiple sample csv file has been provided for demonstration. Running the code snippet above for dataset1, the following window appears-
 
 ![Alt Text](images/img001.png)
 
