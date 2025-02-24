@@ -14,7 +14,7 @@ Users can with ease gain insights into their datasets with virtually zero extens
 
 Furthermore, D-Tale is very customizable, supports table manipulations, and enables users to edit data on the go. It offers integration with a variety of data sources which makes it easier to analyze datasets from databases, CSV files, APIs, etc. It is a valuable tool for novice and advanced users seeking to boost productivity during data analysis work.
 
-## Key Features of D-Tale
+### Key Features of D-Tale
 
 D-Tale stands out due to its rich feature set, which enhances productivity and insight generation. Here are some of its key functionalities:
 
