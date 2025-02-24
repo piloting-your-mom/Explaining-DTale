@@ -45,16 +45,15 @@ Before using DTale, install it along with necessary libraries. Run the following
 
 ```$ pip install dtale ``` 
 
-pip install dtale
-
 Once installed, it can be used in a Jupyter Notebook or a Python script:
-
+```python
 import pandas as pd
 import dtale
 
 df = pd.read_csv("your_dataset.csv")  # Load your dataset
 d = dtale.show(df)  # Launch D-Tale
 d.open_browser()  # Open in web browser
+ ``` 
 
 This command will start a local web server and open a browser tab where users can interact with the dataset in real time.
 
