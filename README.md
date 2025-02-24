@@ -43,9 +43,7 @@ In this blog, we will explore everything D-Tale offers—from its key features a
 # Installation & Setup
  Installing D-Tale is straightforward. It can be added to a Python environment using pip:
 
-''' k '''
-$ pip install dtale
-Successfully installed dtale-2.3.1 ... '''
+```bash pip install dtale python -m dtale ``` 
 
 pip install dtale
 
