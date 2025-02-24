@@ -6,7 +6,7 @@ In the world of data analysis, Python provides a vast array of libraries that he
 
 # Introduction
 
-## What is D-Tale?
+### What is D-Tale?
 
 D-Tale is a Python extensiont that facilitates interaction with data sets and integrates with other Pandas functions. Users can browse, filter, visualize, and manipulate datasets with ease through a browser interface. D-Tale is useful for an analyst or a developer that prefers a GUI to exploratory data analysis (EDA).
 
