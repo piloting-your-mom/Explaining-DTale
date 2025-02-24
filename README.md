@@ -8,31 +8,29 @@ In the world of data analysis, Python provides a vast array of libraries that he
 
 ### What is D-Tale?
 
-D-Tale is a Python extensiont that facilitates interaction with data sets and integrates with other Pandas functions. Users can browse, filter, visualize, and manipulate datasets with ease through a browser interface. D-Tale is useful for an analyst or a developer that prefers a GUI to exploratory data analysis (EDA).
+D-Tale is a Python extensiont that facilitates interaction with data sets and integrates with other Pandas functions. Users can browse, filter, visualize, and manipulate datasets with ease through a browser interface. D-Tale is useful for an analyst or a developer that prefers a graphical user interface (GUI) to do exploratory data analysis (EDA).
 
-Users can with ease gain insights into their datasets with virtually zero extensive programming knowledge. Repetitive coding is eliminated with an intuitive graphical user interface (GUI). Users can generate statistics, visualize distributions, and set tens of other functionalities with simple interactions. Time spent on exploratory tasks is greatly reduced enabling greater productivity.
+Users can with ease gain insights into their datasets with virtually zero extensive programming knowledge. Repetitive coding is eliminated with an intuitive GUI Users can generate statistics, visualize distributions, and set tens of other functionalities with simple interactions. Time spent on exploratory tasks is greatly reduced enabling greater productivity.
 
 Furthermore, D-Tale is very customizable, supports table manipulations, and enables users to edit data on the go. It offers integration with a variety of data sources which makes it easier to analyze datasets from databases, CSV files, APIs, etc. It is a valuable tool for novice and advanced users seeking to boost productivity during data analysis work.
 
 ### Key Features of D-Tale
 
-D-Tale stands out due to its rich feature set, which enhances productivity and insight generation. Here are some of its key functionalities:
+## Key Features of D-Tale
 
-Automatic Data Summary: Upon launching D-Tale, users receive a summary of the dataset, including column types, missing values, and descriptive statistics.
+- **Automatic Data Summary**
+  - Displays column types, missing values, and statistics.
+- **Data Filtering & Sorting**
+  - Allows easy isolation of specific records for deeper analysis.
+- **Data Visualization**
+  - Supports histograms, bar charts, scatter plots, and box plots.
+- **Data Editing & Exporting**
+  - Modify datasets and export to CSV, Excel, or JSON formats.
+- **SQL Integration**
+  - Built-in SQL editor for querying data.
+- **Machine Learning Assistance**
+  - Provides basic model insights for predictive analysis.
 
-Data Filtering & Sorting: Users can filter and sort datasets dynamically, making it easy to isolate specific records for deeper analysis.
-
-Data Visualization: The library supports multiple chart types, including histograms, bar charts, scatter plots, and box plots, which can be generated directly from the interface.
-
-Column Analysis: Each column in a dataset can be analyzed independently, displaying value distributions, correlations, and even automated insights.
-
-Data Editing & Exporting: Users can modify datasets within the interface and export the updated data back to CSV, Excel, or JSON formats.
-
-SQL Integration: D-Tale provides a built-in SQL editor, allowing users to write and execute queries on their data.
-
-Machine Learning Assistance: Basic machine learning model insights can be generated, helping users understand potential predictive relationships within their data.
-
-How to Install and Use D-Tale
 
 Installing D-Tale is straightforward. It can be added to a Python environment using pip:
 
