@@ -38,7 +38,7 @@ d.open_browser()  # Open in web browser
 This command will start a local web server and open a browser tab where users can interact with the dataset in real time.
 
 
-Multiple sample csv file has been provided for demonstration. Running the code snippet above for dataset1, the following window appears-
+Multiple sample csv file has been provided for demonstration. Running the code snippet above for dataset1, the following browser tab appears-
 
 ![Alt Text](images/img001.png)
 
@@ -63,6 +63,6 @@ Multiple sample csv file has been provided for demonstration. Running the code s
 
   D-Tale provides a built-in SQL editor, allowing users to write and execute queries on their data.
 
-
+# Corelation
 
 
