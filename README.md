@@ -40,7 +40,7 @@ D-Tale is a valuable tool for both beginners and experienced data professionals.
 
 In this blog, we will explore everything D-Tale offers—from its key features and installation process to its practical applications in data analysis. We will also discuss  exploratory data analysis (EDA) through interactive visualizations, real-time data manipulation, and seamless integration with Pandas. Lets dive in.
 
-#Installation & Setup
+# Installation & Setup
 Installing D-Tale is straightforward. It can be added to a Python environment using pip:
 
 pip install dtale
