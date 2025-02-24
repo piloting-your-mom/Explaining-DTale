@@ -16,20 +16,18 @@ Furthermore, D-Tale is very customizable, supports table manipulations, and enab
 
 ### Key Features of D-Tale
 
-## Key Features of D-Tale
-
 - **Automatic Data Summary**
-  - Displays column types, missing values, and statistics.
+  Displays column types, missing values, and statistics.
 - **Data Filtering & Sorting**
-  - Allows easy isolation of specific records for deeper analysis.
+  Allows easy isolation of specific records for deeper analysis.
 - **Data Visualization**
-  - Supports histograms, bar charts, scatter plots, and box plots.
+  Supports histograms, bar charts, scatter plots, and box plots.
 - **Data Editing & Exporting**
-  - Modify datasets and export to CSV, Excel, or JSON formats.
+  Modify datasets and export to CSV, Excel, or JSON formats.
 - **SQL Integration**
-  - Built-in SQL editor for querying data.
+  Built-in SQL editor for querying data.
 - **Machine Learning Assistance**
-  - Provides basic model insights for predictive analysis.
+  Provides basic model insights for predictive analysis.
 
 
 Installing D-Tale is straightforward. It can be added to a Python environment using pip:
