@@ -26,7 +26,7 @@ Furthermore, D-Tale is very customizable, supports table manipulations, and enab
 
   The library supports multiple chart types, including histograms, bar charts, scatter plots, and box plots, which can be generated directly from the interface.
 - **Column Analysis**
-- 
+
   Each column in a dataset can be analyzed independently, displaying value distributions, correlations, and even automated insights.
 - **Data Editing & Exporting**
 
