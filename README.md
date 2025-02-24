@@ -1,4 +1,4 @@
-# D-Tale
+## D-Tale
 ES114-Probability Statistics and Data Visualization; D-tale python library expository blog
 Exploring D-Tale: An Interactive Tool for Data Analysis in Python
 
