@@ -152,6 +152,10 @@ D-Tale allows users to combine multiple conditions using and/or (lowercase) oper
   <img src="images/img010.png" width="45%" />
 </p>
 
+## Exporting
+Once filtered, you can export the refined dataset in CSV, TSV, Parquet or HTML format.
+![Alt Text](images/img011.png)
+
 
 # Conclusion
 In this blog, we explored D-Tale Python library, a powerful tool for automated exploratory data analysis (EDA).
