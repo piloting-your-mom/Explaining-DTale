@@ -77,8 +77,10 @@ You can display the correlation matrix by selecting it from the drop down. Or by
 ```python
 d.corr()
 ```
-This function displays a heatmap matrix where each cell represents the correlation coefficient between two variables(columns). 
+This function displays a heatmap matrix where each cell represents the correlation coefficient between two variables(columns).
+
 ![Alt Text](images/img004.png)
+
 The following correlations are shown for dataset2
 
 Interpreting the Results
@@ -87,6 +89,7 @@ Interpreting the Results
 - **Values around 0:**       No significant correlation.
 
 Selecting any cell also gives a scatter plot for the all values of the corresponding x and y variables
+
 ![Alt Text](images/img003.png)
 
 
