@@ -136,7 +136,6 @@ import dtale
 df = pd.read_csv("dataset2.txt")  # Load your dataset
 d = dtale.show(df,enable_custom_filters=True)  # Launch D-Tale with custom filters enabled
 d.open_browser()  # Open in web browser
-df
  ``` 
 After launching D-Tale, click on the "Filter" button in the top menu. A filtering window appears, where you can apply custom conditions to any column. Choose the column you want to filter. Enter the value or condition for filtering.
 
