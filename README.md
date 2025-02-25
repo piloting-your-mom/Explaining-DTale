@@ -106,3 +106,4 @@ Selecting any cell also gives a scatter plot for the all values of the correspon
 Data visualization is essential in understanding patterns, trends, and insights within a dataset. D-Tale offers various charting options, allowing users to generate, customize, and export visualizations effortlessly. You can select variables to generate custom charts dynamically. D-Tale supports a variety of interactive charts.
 
 ![Alt Text](images/img006.png)
+
