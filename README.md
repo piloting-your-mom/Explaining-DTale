@@ -113,7 +113,6 @@ Data visualization is essential in understanding patterns, trends, and insights 
 | Attribute          | Functionality |
 |--------------------|--------------|
 | **Charts**        | Offers multiple chart types, including Line, Bar, Scatter, Pie, Heatmap, etc. |
-| **Aggregation**   | Allows data aggregation using Sum, Average, Count, Unique Count, etc. |
 | **Binning**       | Controls data binning for histograms and bar charts, can be adjusted using Width or Frequency. |
 | **Grouping**      | Enables grouping of data based on selected categorical or numerical variables. |
 | **Correlation Heatmap** | Displays the correlation between numerical variables using a color-coded matrix. |
@@ -123,7 +122,6 @@ Data visualization is essential in understanding patterns, trends, and insights 
 | **Pareto Chart**  | Highlights the most significant factors in categorical data using a combined bar & line graph. |
 | **Word Cloud**    | Generates a visual representation of text data, where word size represents frequency. |
 | **Treemap**       | Displays hierarchical data using nested rectangles. |
-| **Drilldowns**    | Provides deeper insights into selected data points interactively. |
 | **Animate Charts** | Enables dynamic visual updates based on a selected variable. |
 | **Export Options** | Allows exporting visualizations as PNG, CSV, or JSON files. |
 
