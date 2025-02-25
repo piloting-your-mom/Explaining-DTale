@@ -1,6 +1,6 @@
 # D-Tale
-ES114-Probability Statistics and Data Visualization; D-tale python library expository blog
-Exploring D-Tale: An Interactive Tool for Data Analysis in Python
+**ES114-Probability Statistics and Data Visualization**
+D-tale python library expository blog exploring D-Tale: An Interactive Tool for Data Analysis in Python
 
 In the world of data analysis, Python provides a vast array of libraries that help users explore and visualize datasets efficiently. One such powerful yet often overlooked tool is D-Tale. This open-source Python library bridges the gap between raw data and insightful visual analysis by providing an interactive, web-based interface for Pandas DataFrames.
 
