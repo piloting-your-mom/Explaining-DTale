@@ -179,10 +179,10 @@ D-Tale is an essential tool for anyone handling structured datasets. It streamli
 For more details, official documentation, and additional learning resources, check out these links:
 
 Official D-Tale Docs: 
-GitHub Repository: [https://dtale.readthedocs.io/en/latest/](https://dtale.readthedocs.io/en/latest/)
-YouTube Tutorials on D-Tale: [https://www.youtube.com/watch?v=jYlwwNycVh8](https://www.youtube.com/watch?v=jYlwwNycVh8)
-PyPI Package (Installation Guide): [https://pypi.org/project/dtale/](https://pypi.org/project/dtale/)
-Pandas Profiling (Older Version): [https://pandas-profiling.ydata.ai/docs/master/](https://pandas-profiling.ydata.ai/docs/master/)
+- GitHub Repository: [https://dtale.readthedocs.io/en/latest/](https://dtale.readthedocs.io/en/latest/)
+- YouTube Tutorials on D-Tale: [https://www.youtube.com/watch?v=jYlwwNycVh8](https://www.youtube.com/watch?v=jYlwwNycVh8)
+- PyPI Package (Installation Guide): [https://pypi.org/project/dtale/](https://pypi.org/project/dtale/)
+- Pandas Profiling (Older Version): [https://pandas-profiling.ydata.ai/docs/master/](https://pandas-profiling.ydata.ai/docs/master/)
 
 
 
