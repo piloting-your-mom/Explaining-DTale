@@ -126,4 +126,20 @@ Data visualization is essential in understanding patterns, trends, and insights 
 | **Drilldowns**    | Provides deeper insights into selected data points interactively. |
 | **Animate Charts** | Enables dynamic visual updates based on a selected variable. |
 | **Export Options** | Allows exporting visualizations as PNG, CSV, or JSON files. |
+## Example
+```python
+import pandas as pd
+import dtale
+
+# Load sample dataset
+df = pd.read_csv("dataset.csv")
+
+# Launch D-Tale for interactive data visualization
+d = dtale.show(df)
+d.open_browser()  # Opens in a web browser
+
+ ```
+With tools like D-Tale, users can explore data interactively, enhancing decision-making and efficiency in analysis.
+
+
 
