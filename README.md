@@ -138,11 +138,18 @@ d = dtale.show(df,enable_custom_filters=True)  # Launch D-Tale with custom filte
 d.open_browser()  # Open in web browser
 df
  ``` 
-Custom Filtering can now be selected from the dropdown of the **Action Menu** . Its with intuitive commands a custom filter can be created. Click **Apply** 
+After launching D-Tale, click on the "Filter" button in the top menu. A filtering window appears, where you can apply custom conditions to any column. Choose the column you want to filter. Enter the value or condition for filtering.
 
 <p align="center">
   <img src="images/img007.png" width="45%" />
   <img src="images/img008.png" width="45%" />
+</p>
+
+D-Tale allows users to combine multiple conditions using and/or (lowercase) operators for advanced filtering.
+
+<p align="center">
+  <img src="images/img009.png" width="45%" />
+  <img src="images/img010.png" width="45%" />
 </p>
 
 
