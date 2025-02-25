@@ -71,6 +71,8 @@ In D-Tale, the Describe function provides a summary of statistical properties fo
   <img src="images/img005.png" width="45%" />
 </p>
 
+It describes the column in turns of mean, meadian, min and max values and much more.
+
 # Correlation
 
 In D-Tale, the correlation function helps users analyze relationships between numerical variables in a dataset. It visually and statistically represents how different columns are related to one another. It uses the Pearson’s Correlation method to calculate the correlation coefficients
