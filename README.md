@@ -141,7 +141,7 @@ df
 Custom Filtering can now be selected from the dropdown of the **Action Menu**
 
 <p align="center">
-  <img src="images/img007.png" width="45%" />
+  <img src="images/img004.png" width="45%" />
   <img src="images/img008.png" width="45%" />
 </p>
 
