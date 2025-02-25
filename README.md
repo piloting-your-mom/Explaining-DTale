@@ -86,6 +86,8 @@ Interpreting the Results
 - **Values close to -1:**    Strong negative correlation 
 - **Values around 0:**       No significant correlation.
 
+Selecting any cell also gives a scatter plot for the all values of the corresponding x and y variables
+
 
 
 
