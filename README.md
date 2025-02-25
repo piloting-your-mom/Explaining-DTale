@@ -138,6 +138,13 @@ d = dtale.show(df,enable_custom_filters=True)  # Launch D-Tale with custom filte
 d.open_browser()  # Open in web browser
 df
  ``` 
+Custom Filtering can now be selected from the dropdown of the **Action Menu**
+
+<p align="center">
+  <img src="images/img007.png" width="45%" />
+  <img src="images/img008.png" width="45%" />
+</p>
+
 
 # Conclusion
 In this blog, we explored D-Tale Python library, a powerful tool for automated exploratory data analysis (EDA).
