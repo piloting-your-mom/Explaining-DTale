@@ -67,8 +67,8 @@ Multiple sample csv file has been provided for demonstration. Running the code s
 In D-Tale, the Describe function provides a summary of statistical properties for a selected column, similar to df.describe() in Pandas but column specific and with an interactive GUI.
 
 <p align="center">
-  <img src="images/img001.png" width="45%" />
-  <img src="images/img002.png" width="45%" />
+  <img src="images/img004.png" width="45%" />
+  <img src="images/img005.png" width="45%" />
 </p>
 
 # Correlation
