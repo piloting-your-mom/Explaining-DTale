@@ -65,9 +65,7 @@ Multiple sample csv file has been provided for demonstration. Running the code s
 
 # Correlation
 
-
-
-## Pearson's Correlation Formula
+In D-Tale, the correlation function helps users analyze relationships between numerical variables in a dataset. It visually and statistically represents how different columns are related to one another. It uses the Pearson’s Correlation method to calculate the correlation coefficients
 
 The Pearson correlation coefficient (\(r\)) is calculated as:
 
