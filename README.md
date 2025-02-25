@@ -77,6 +77,12 @@ You can display the correlation matrix by selecting it from the drop down. Or by
 ```python
 d.corr()
 ```
+This function displays a heatmap matrix where each cell represents the correlation coefficient between two variables(columns). 
+
+Interpreting the Results
+- **Values close to +1:**    Strong positive correlation 
+- **Values close to -1:**    Strong negative correlation 
+- **Values around 0:**       No significant correlation.
 
 
 
