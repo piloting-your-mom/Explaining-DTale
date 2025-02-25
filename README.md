@@ -64,7 +64,7 @@ Multiple sample csv file has been provided for demonstration. Running the code s
   D-Tale provides a built-in SQL editor, allowing users to write and execute queries on their data.
 
 # Describe column
-In D-Tale, the Describe function provides a summary of statistical properties for a selected column, similar to df.describe() in Pandas but column specific and with an interactive GUI.
+In D-Tale, the Describe function provides a summary of statistical properties for a selected column, similar to df.describe() in Pandas but column specific and with an interactive GUI. You can get the tab by left clicking the Target column
 
 <p align="center">
   <img src="images/img004.png" width="45%" />
