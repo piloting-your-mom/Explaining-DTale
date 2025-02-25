@@ -125,6 +125,20 @@ Data visualization is essential in understanding patterns, trends, and insights 
 | **Animate Charts** | Enables dynamic visual updates based on a selected variable. |
 | **Export Options** | Allows exporting visualizations as PNG, CSV, or JSON files. |
 
+# Custom  Filtering
+D-Tale provides custom filtering options that allow users to dynamically refine datasets based on specific conditions without writing complex Pandas queries. This feature is useful for isolating relevant data points, identifying trends, and cleaning datasets interactively.
+However Custom filters are vulnerable to code injection attacks, and should only be used in trusted environments.
+
+```python
+import pandas as pd
+import dtale
+
+df = pd.read_csv("dataset2.txt")  # Load your dataset
+d = dtale.show(df,enable_custom_filters=True)  # Launch D-Tale with custom filters enabled
+d.open_browser()  # Open in web browser
+df
+ ``` 
+
 # Conclusion
 In this blog, we explored D-Tale Python library, a powerful tool for automated exploratory data analysis (EDA).
 
