@@ -158,7 +158,7 @@ In this blog, we explored D-Tale Python library, a powerful tool for automated e
 - **No-Code Analysis** –   Suitable for both **technical and non-technical users**, reducing the learning curve for data visualization.  
 - **Export & Reporting Capabilities** –   Enables saving **charts and tables** in various formats, making it ideal for reporting and presentations.  
 
-## Why Use D-Tale Profiling?
+## Why Use D-Tale?
 - **Saves Time:** Instead of manually writing summary code, get an instant EDA report.
 - **Better Understanding:** Quickly assess data quality before building models.
 - **Useful for Any Dataset:** Whether working on ML, data science, or analytics, this tool speeds up workflows.
