@@ -66,6 +66,11 @@ Multiple sample csv file has been provided for demonstration. Running the code s
 # Describe column
 In D-Tale, the Describe function provides a summary of statistical properties for a selected column, similar to df.describe() in Pandas but column specific and with an interactive GUI.
 
+<p align="center">
+  <img src="img001.png" width="45%" />
+  <img src="img002.png" width="45%" />
+</p>
+
 # Correlation
 
 In D-Tale, the correlation function helps users analyze relationships between numerical variables in a dataset. It visually and statistically represents how different columns are related to one another. It uses the Pearson’s Correlation method to calculate the correlation coefficients
