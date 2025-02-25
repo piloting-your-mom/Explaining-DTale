@@ -175,5 +175,14 @@ In this blog, we explored D-Tale Python library, a powerful tool for automated e
 
 D-Tale is an essential tool for anyone handling structured datasets. It streamlines exploratory data analysis (EDA), making the process quicker, simpler, and more insightful!
 
+# References & Further Reading
+For more details, official documentation, and additional learning resources, check out these links:
+
+Official D-Tale Docs: 
+GitHub Repository: [https://dtale.readthedocs.io/en/latest/](https://dtale.readthedocs.io/en/latest/)
+YouTube Tutorials on D-Tale: [https://www.youtube.com/watch?v=jYlwwNycVh8](https://www.youtube.com/watch?v=jYlwwNycVh8)
+PyPI Package (Installation Guide): [https://pypi.org/project/dtale/](https://pypi.org/project/dtale/)
+Pandas Profiling (Older Version): [https://pandas-profiling.ydata.ai/docs/master/](https://pandas-profiling.ydata.ai/docs/master/)
+
 
 
