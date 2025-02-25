@@ -138,7 +138,7 @@ d = dtale.show(df,enable_custom_filters=True)  # Launch D-Tale with custom filte
 d.open_browser()  # Open in web browser
 df
  ``` 
-Custom Filtering can now be selected from the dropdown of the **Action Menu**
+Custom Filtering can now be selected from the dropdown of the **Action Menu** . Its with intuitive commands a custom filter can be created. Click **Apply** 
 
 <p align="center">
   <img src="images/img007.png" width="45%" />
@@ -158,7 +158,7 @@ In this blog, we explored D-Tale Python library, a powerful tool for automated e
 - **No-Code Analysis** –   Suitable for both **technical and non-technical users**, reducing the learning curve for data visualization.  
 - **Export & Reporting Capabilities** –   Enables saving **charts and tables** in various formats, making it ideal for reporting and presentations.  
 
-## Why Use YData Profiling?
+## Why Use D-Tale Profiling?
 - **Saves Time:** Instead of manually writing summary code, get an instant EDA report.
 - **Better Understanding:** Quickly assess data quality before building models.
 - **Useful for Any Dataset:** Whether working on ML, data science, or analytics, this tool speeds up workflows.
