@@ -87,7 +87,7 @@ d.corr()
 ```
 This function displays a heatmap matrix where each cell represents the correlation coefficient between two variables(columns).
 
-![Alt Text](images/img004.png)
+![Alt Text](images/img002.png)
 
 The following correlations are shown for dataset2
 
