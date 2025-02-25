@@ -149,7 +149,7 @@ Custom Filtering can now be selected from the dropdown of the **Action Menu** . 
 # Conclusion
 In this blog, we explored D-Tale Python library, a powerful tool for automated exploratory data analysis (EDA).
 
-## Key Takeaways
+### Key Takeaways
 - **Interactive Data Exploration** –   D-Tale provides a **web-based GUI** for seamless data analysis, eliminating the need for repetitive coding.  
 - **Rich Visualization Options** –   Offers various chart types, including **histograms, scatter plots, heatmaps, and bar charts** to uncover patterns and trends.  
 - **Seamless Integration with Pandas** –   Works directly with **Pandas DataFrames**, making it easy to load, manipulate, and analyze datasets.  
@@ -158,7 +158,7 @@ In this blog, we explored D-Tale Python library, a powerful tool for automated e
 - **No-Code Analysis** –   Suitable for both **technical and non-technical users**, reducing the learning curve for data visualization.  
 - **Export & Reporting Capabilities** –   Enables saving **charts and tables** in various formats, making it ideal for reporting and presentations.  
 
-## Why Use D-Tale?
+### Why Use D-Tale?
 - **Saves Time:** Instead of manually writing summary code, get an instant EDA report.
 - **Better Understanding:** Quickly assess data quality before building models.
 - **Useful for Any Dataset:** Whether working on ML, data science, or analytics, this tool speeds up workflows.
