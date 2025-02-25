@@ -71,5 +71,13 @@ The Pearson correlation coefficient (\(r\)) is calculated as:
 
 ![Pearson Formula](https://latex.codecogs.com/png.latex?r%20%3D%20%5Cfrac%7B%5Csum%20(X_i%20-%20%5Cbar%7BX%7D)%20(Y_i%20-%20%5Cbar%7BY%7D)%7D%7B%5Csqrt%7B%5Csum%20(X_i%20-%20%5Cbar%7BX%7D)%5E2%7D%20%5Ctimes%20%5Csqrt%7B%5Csum%20(Y_i%20-%20%5Cbar%7BY%7D)%5E2%7D%7D)
 
+Pearson’s Correlation Coefficient (r) measures the linear relationship between two numerical variables. It quantifies how strongly and in what direction (positive or negative) two variables are related.
+
+You can display the correlation matrix by selecting it from the drop down. Or by using the .corr command.
+```python
+d.corr()
+```
+
+
 
 
